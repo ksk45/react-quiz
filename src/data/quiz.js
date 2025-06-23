@@ -20,7 +20,7 @@ const quizData = [
     answerIndex: 3,
   },
   {
-    question: "Question 4",
+    question: "Question 5",
     options: ["Select 1", "Select 2", "Select 3", "Select 4"],
     answerIndex: 0,
   },
