@@ -19,8 +19,6 @@ export default function ResultPage() {
     setTimeout(() => setActive(true), 3000);
   }, [location.state, navigate]);
 
-
-
   return (
     <>
       <Loading active={active} />

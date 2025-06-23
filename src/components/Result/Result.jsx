@@ -1,5 +1,5 @@
 import styles from "./Result.module.css";
-import Confetti from 'react-confetti'
+import Confetti from "react-confetti";
 
 export default function Result({ maxQuizLen, correctNumLen }) {
   return (
@@ -13,5 +13,5 @@ export default function Result({ maxQuizLen, correctNumLen }) {
       </div>
       <Confetti />
     </>
-  )
+  );
 }
